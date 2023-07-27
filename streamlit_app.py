@@ -3,7 +3,7 @@ import streamlit
 import pandas
 
 
-streamlit.title('Integrate Snowflake Streamlit and Github !')
+streamlit.title('Integrate Snowflake with Streamlit and Github !')
 
 streamlit.header('Breakfast Menu')
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
